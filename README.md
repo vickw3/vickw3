@@ -1,6 +1,6 @@
-### Hello! 👋<br>
-### Welcome to my GitHub profile.<br>
-### My name is Victoria and my nickname is "vickw3"!
+### Hello! 👋
+#### Welcome to my GitHub profile.
+#### My name is Victoria and my nickname is "vickw3"!
 
 - 🔭 I’m currently looking for a job as a Full Stack Developer
 - 🌱 I’m currently learning Full Stack Developer at Generation Brazil

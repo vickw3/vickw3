@@ -2,8 +2,8 @@
 #### Welcome to my GitHub profile. My name is Victoria and my nickname is "vickw3"!
 
 ## About me:
-🔭 I’m currently looking for a job as a Full Stack Developer
-🌱 I’m currently studying Full Stack Developer at Generation Brazil
+🔭 I’m currently looking for a job as a Full Stack Developer<br>
+🌱 I’m currently studying Full Stack Developer at Generation Brazil<br>
 😄 Pronouns: She/Her
 
 <!--
@@ -11,9 +11,9 @@ Pitching
 -->
 
 ## Language and Tools:
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
-## 📫 How to reach me:
+## How to reach me:
 <div>
 <a href="https://instagram.com/vickw" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:victoria.alcoforado@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
